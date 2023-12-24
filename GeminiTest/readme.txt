@@ -1,0 +1,1 @@
+set GOOGLE_APPLICATION_CREDENTIALS=C:\Users\User\VSProjects\Gemini\cyorg-genai-test-f703c8bc0505.json
